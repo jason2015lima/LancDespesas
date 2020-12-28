@@ -1,4 +1,4 @@
-package com.algaworks.curso.jpa2.util.cdi;
+package com.lancamento.despesa.util.cdi;
 
 import java.util.Set;
 

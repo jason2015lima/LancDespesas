@@ -1,4 +1,4 @@
-package com.algaworks.curso.jpa2.util.jpa;
+package com.lancamento.despesa.util.jpa;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.enterprise.context.RequestScoped;

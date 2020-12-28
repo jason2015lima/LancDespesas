@@ -1,4 +1,4 @@
-package com.algaworks.curso.jpa2.util.jpa;
+package com.lancamento.despesa.util.jpa;
 
 import java.io.Serializable;
 
